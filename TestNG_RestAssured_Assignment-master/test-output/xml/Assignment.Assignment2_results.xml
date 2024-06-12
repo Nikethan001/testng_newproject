@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestNG_RestAssured Assignment"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="4.312">
+    <properties></properties>
+
+
+
+            <testcase
+                name="post_call"
+                time="3.144"
+                classname="Assignment.Assignment2">
+            </testcase>
+            <testcase
+                name="get_call"
+                time="0.422"
+                classname="Assignment.Assignment2">
+            </testcase>
+            <testcase
+                name="put_call"
+                time="0.746"
+                classname="Assignment.Assignment2">
+            </testcase>
+</testsuite>
